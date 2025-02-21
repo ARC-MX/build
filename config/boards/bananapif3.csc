@@ -1,7 +1,7 @@
 # SpacemiT K1 octa core RISC-V SoC 2GB/4GB RAM 8GB/16GB eMMC 4x USB3 2x GbE
 BOARD_NAME="BananaPi BPI-F3"
 BOARDFAMILY="spacemit"
-BOARD_MAINTAINER=""
+BOARD_MAINTAINER="pyavitz"
 KERNEL_TARGET="current"
 BOOT_FDT_FILE="spacemit/k1-bananapi-f3.dtb"
 BOOTDELAY=1
